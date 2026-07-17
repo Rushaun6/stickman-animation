@@ -1,1 +1,4 @@
-# Main entry point for the stickman animation engine
+from engine import start
+
+if __name__ == "__main__":
+    start()
